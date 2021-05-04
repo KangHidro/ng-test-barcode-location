@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "barcode2"
+    }
+  },
+  "defaultProject": "barcode2",
+  "cli": {
+    "analytics": false
+  }
 }
